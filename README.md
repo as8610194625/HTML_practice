@@ -1,5 +1,3 @@
-# HTML_practice
-practicing HTML
-```
-[W3C HTML](https://www.w3schools.com/html/)
-```
+# HTML Tutorial
+### FREE Tutorial<br>
+[W3C HTML](https://www.w3schools.com/html)
